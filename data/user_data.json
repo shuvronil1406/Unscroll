@@ -1,0 +1,78 @@
+{
+  "user_id": "user_001",
+  "username": "CinemaJunkie",
+  "watched_movies": [
+    {
+      "movie_id": 19995,
+      "title": "Avatar"
+    },
+    {
+      "movie_id": 299536,
+      "title": "Avengers: Infinity War"
+    },
+    {
+      "movie_id": 140607,
+      "title": "Star Wars: The Force Awakens"
+    },
+    {
+      "movie_id": 157336,
+      "title": "Interstellar"
+    },
+    {
+      "movie_id": 27205,
+      "title": "Inception"
+    },
+    {
+      "movie_id": 603,
+      "title": "The Matrix"
+    },
+    {
+      "movie_id": 24428,
+      "title": "The Avengers"
+    },
+    {
+      "movie_id": 98,
+      "title": "Gladiator"
+    },
+    {
+      "movie_id": 181808,
+      "title": "Star Wars: The Last Jedi"
+    },
+    {
+      "movie_id": 9806,
+      "title": "The Incredibles"
+    },
+    {
+      "movie_id": 32740,
+      "title": "Krrish"
+    },
+    {
+      "movie_id": 8009,
+      "title": "Highlander"
+    },
+    {
+      "movie_id": 215918,
+      "title": "1982"
+    },
+    {
+      "movie_id": 1930,
+      "title": "The Amazing Spider-Man"
+    },
+    {
+      "movie_id": 19615,
+      "title": "Flying By"
+    },
+    {
+      "movie_id": 1590,
+      "title": "Copying Beethoven"
+    },
+    {
+      "movie_id": 113406,
+      "title": "Should've Been Romeo"
+    },
+    {
+      "movie_id": 37165,
+      "title": "The Truman Show"
+    }
+  ]
+}

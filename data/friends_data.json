@@ -1,0 +1,83 @@
+[
+  {
+    "friend_id": "friend_001",
+    "friend_name": "Alex",
+    "watched_movies": [
+      {"movie_id": 278, "title": "The Shawshank Redemption"},
+      {"movie_id": 238, "title": "The Godfather"},
+      {"movie_id": 424, "title": "Schindler's List"},
+      {"movie_id": 389, "title": "12 Angry Men"},
+      {"movie_id": 240, "title": "The Godfather: Part II"},
+      {"movie_id": 496243, "title": "Parasite"},
+      {"movie_id": 680, "title": "Pulp Fiction"}
+    ]
+  },
+  {
+    "friend_id": "friend_002",
+    "friend_name": "Priya",
+    "watched_movies": [
+      {"movie_id": 11, "title": "Star Wars"},
+      {"movie_id": 1891, "title": "The Empire Strikes Back"},
+      {"movie_id": 1892, "title": "Return of the Jedi"},
+      {"movie_id": 1893, "title": "Star Wars: The Phantom Menace"},
+      {"movie_id": 120, "title": "The Lord of the Rings: The Fellowship of the Ring"},
+      {"movie_id": 121, "title": "The Lord of the Rings: The Two Towers"},
+      {"movie_id": 122, "title": "The Lord of the Rings: The Return of the King"}
+    ]
+  },
+  {
+    "friend_id": "friend_003",
+    "friend_name": "Marcus",
+    "watched_movies": [
+      {"movie_id": 155, "title": "The Dark Knight"},
+      {"movie_id": 49026, "title": "The Dark Knight Rises"},
+      {"movie_id": 1124, "title": "The Prestige"},
+      {"movie_id": 77338, "title": "The Intouchables"},
+      {"movie_id": 550, "title": "Fight Club"},
+      {"movie_id": 807, "title": "Se7en"},
+      {"movie_id": 311, "title": "Once Upon a Time in America"},
+      {"movie_id": 641, "title": "Requiem for a Dream"}
+    ]
+  },
+  {
+    "friend_id": "friend_004",
+    "friend_name": "Sofia",
+    "watched_movies": [
+      {"movie_id": 8587, "title": "The Lion King"},
+      {"movie_id": 10193, "title": "Toy Story 3"},
+      {"movie_id": 12, "title": "Finding Nemo"},
+      {"movie_id": 260514, "title": "Inside Out"},
+      {"movie_id": 14160, "title": "Up"},
+      {"movie_id": 2062, "title": "Ratatouille"},
+      {"movie_id": 863, "title": "Toy Story 2"},
+      {"movie_id": 10681, "title": "WALL·E"}
+    ]
+  },
+  {
+    "friend_id": "friend_005",
+    "friend_name": "Raj",
+    "watched_movies": [
+      {"movie_id": 4935, "title": "Howl's Moving Castle"},
+      {"movie_id": 129, "title": "Spirited Away"},
+      {"movie_id": 8392, "title": "My Neighbor Totoro"},
+      {"movie_id": 37799, "title": "The Social Network"},
+      {"movie_id": 1422, "title": "The Departed"},
+      {"movie_id": 489, "title": "Good Will Hunting"},
+      {"movie_id": 13, "title": "Forrest Gump"}
+    ]
+  },
+  {
+    "friend_id": "friend_006",
+    "friend_name": "Zara",
+    "watched_movies": [
+      {"movie_id": 105, "title": "Back to the Future"},
+      {"movie_id": 181, "title": "Blade Runner"},
+      {"movie_id": 218, "title": "The Terminator"},
+      {"movie_id": 87101, "title": "Terminator Genisys"},
+      {"movie_id": 329865, "title": "Arrival"},
+      {"movie_id": 335984, "title": "Blade Runner 2049"},
+      {"movie_id": 8681, "title": "Teeth"},
+      {"movie_id": 68718, "title": "Django Unchained"}
+    ]
+  }
+]
