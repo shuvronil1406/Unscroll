@@ -8,13 +8,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/stars/your-username/unscroll?style=for-the-badge" />
-<img src="https://img.shields.io/github/forks/your-username/unscroll?style=for-the-badge" />
-<img src="https://img.shields.io/github/issues/your-username/unscroll?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/your-username/unscroll?style=for-the-badge" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
